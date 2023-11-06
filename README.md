@@ -21,7 +21,7 @@ Badge [source](https://shields.io/)
 
 ## Table of Contents
 
-  - [Business problem](#business-problem)
+  - [Business problemon](#business-problem)
   - [Data source](#data-source)
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
